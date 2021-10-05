@@ -1,4 +1,5 @@
 AutoLCA: an automatic LCA using xlsx spreadsheets and R Scripts
+
 Author: Dr Martí Rufí-Salís (ORCID: 0000-0003-3696-1033)
 
 AutoLCA is an open-source tool to perform Life Cycle Impact Assessments through the use of an R script (AutoLCA.R) and an Excel template File (AutoLCA_EXCEL.xlsx).
